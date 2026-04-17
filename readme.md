@@ -10,11 +10,11 @@ Large Language Model (LLM) agents require sophisticated memory systems to handle
 
 Our project introduces **AnchorMem**, a novel memory architecture that organizes information into a two-layer hierarchy: **Facts** and **Events**. By clustering related atomic facts and summarizing them into "Event Anchors," AnchorMem enables more precise retrieval and better reasoning for agentic tasks.
 
-\<div align="center">
-    \<img src="figure/first_figure_anchormem.jpg" width="600"/>
+<div align="center">
+    <img src="figure/first_figure_anchormem.jpg" width="600"/>
     <br>
     \<em>Comparison between traditional memory systems and our AnchorMem architecture. AnchorMem abstracts discrete facts into event-level anchors for superior retrieval.\</em>
-\</div>
+</div>
 
 For more details, please refer to our ACL 2026 paper: **[AnchorMem: Hierarchical Memory Architecture for Large Language Model Agents](https://www.google.com/search?q=AnchorMem-camera-pre/paper/ACL26-AnchorMem_v1.1.pdf)**.
 
