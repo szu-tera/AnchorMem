@@ -2,8 +2,6 @@ AnchorMem: Anchored Facts with Associative Contexts for Building
 Memory in Large Language Models ⚓🧠
 ===================================
 
-A hierarchical agentic memory system for LLM agents that anchors fine-grained facts into high-level events.
-
 ## Introduction 🌟
 
 Our introduces **AnchorMem**, a novel memory architecture that organizes information into a two-layer hierarchy: Facts and Events. By clustering related atomic facts and summarizing them into Event, AnchorMem enables more precise retrieval and better reasoning for agentic tasks. Experiments across three closed-source and open-source models with **difference methods (e.g., HippoRAG 2, LightMem)** on the LoCoMo benchmark demonstrate that AnchorMem significantly outperforms baselines.
@@ -14,8 +12,9 @@ Our introduces **AnchorMem**, a novel memory architecture that organizes informa
     <em>Comparison between traditional memory systems and our AnchorMem architecture. AnchorMem abstracts discrete facts into event-level anchors for superior retrieval.</em>
 </div>
 
-For more details, please refer to our ACL 2026 paper: **[AnchorMem: Hierarchical Memory Architecture for Large Language Model Agents](https://www.google.com/search?q=AnchorMem-camera-pre/paper/ACL26-AnchorMem_v1.1.pdf)**.
-
+## New 🌟
+- [2026/04/6] 🔥 Our paper has been accepted to ACL Finding!
+  
 ## Key Features ✨
 
 - 🔄 **Hierarchical Memory Organization**: Automatically extracts atomic "Facts" and abstracts them into high-level "Events".
