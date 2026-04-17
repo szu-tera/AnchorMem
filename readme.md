@@ -13,7 +13,7 @@ Our introduces **AnchorMem**, a novel memory architecture that organizes informa
 </div>
 
 ## New 🌟
-- [2026/04/6] 🔥 Our paper has been accepted to ACL Finding!
+- [2026/04/6] 🔥 Our paper has been accepted to **ACL 2026** Finding!
   
 ## Key Features ✨
 
@@ -131,7 +131,7 @@ If you use AnchorMem in your research, please cite our work:
 
 ```bibtex
 @article{anchormem2026,
-  title={AnchorMem: Hierarchical Memory Architecture for Large Language Model Agents},
+  title={AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models},
   year={2026}
 }
 ```
