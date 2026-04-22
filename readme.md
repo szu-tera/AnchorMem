@@ -132,11 +132,9 @@ If you use AnchorMem in your research, please cite our work:
 ```bibtex
 @article{shen2026anchormem,
       title={AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models}, 
-      author={Zhanyu Shen, Sijie Cheng, Zhicheng Guo, Weiqin Wang, Yile Wang and Hui Huang},
+      author={Shen, Zhanyu and Cheng, Sijie and Guo, Zhicheng and Wang, Weiqin and Wang, Yile and Huang, Hui},
+      journal={arXiv preprint arXiv:2604.17377},
       year={2026},
-      eprint={2604.17377},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
       url={https://arxiv.org/abs/2604.17377}, 
 }
 ```
