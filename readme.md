@@ -130,10 +130,14 @@ python eval_judge.py \
 If you use AnchorMem in your research, please cite our work:
 
 ```bibtex
-@article{anchormem2026,
-  title={AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models},
-  author={Zhanyu Shen, Sijie Cheng, Zhicheng Guo, Weiqin Wang, Yile Wang, Hui Huang },
-  year={2026}
+@article{shen2026anchormem,
+      title={AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models}, 
+      author={Zhanyu Shen and Sijie Cheng and Zhicheng Guo and Weiqin Wang and Yile Wang and Hui Huang},
+      year={2026},
+      eprint={2604.17377},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.17377}, 
 }
 ```
 
